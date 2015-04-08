@@ -35,7 +35,7 @@ check this file: `index.js`
 - Make sure your features are fully tested
 - Open a pull request, and enjoy <3
 
-### MIY license
+### MIT license
 Copyright (c) 2015 turing &lt;o.u.turing@gmail.com&gt;
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
