@@ -33,7 +33,6 @@ function jsonifyFromFile(src, dist, callback, opts) {
       var ret = {};
       var heads = defaultKeys || keys;
 
-      // code,name.en|name.zh-cn,nation
       heads.forEach(function(k, i) {
         if (k.indexOf(separator) === -1) {
           ret[k] = item[i];
