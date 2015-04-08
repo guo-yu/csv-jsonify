@@ -21,5 +21,11 @@
   "bugs": {
     "url": "https://github.com/turingou/csv-jsonify/issues"
   },
-  "homepage": "https://github.com/turingou/csv-jsonify"
+  "homepage": "https://github.com/turingou/csv-jsonify",
+  "dependencies": {
+    "csv-parse": "^0.1.0"
+  },
+  "devDependencies": {
+    "debug": "^2.1.3"
+  }
 }
