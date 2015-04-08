@@ -1,0 +1,25 @@
+{
+  "name": "csv-jsonify",
+  "version": "0.1.0",
+  "description": "a jsonify cli tool to convert csv to json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:turingou/csv-jsonify.git"
+  },
+  "keywords": [
+    "csv",
+    "json",
+    "convert",
+    "excel"
+  ],
+  "author": "turing <o.u.turing@gmail.com>",
+  "license": "MIY",
+  "bugs": {
+    "url": "https://github.com/turingou/csv-jsonify/issues"
+  },
+  "homepage": "https://github.com/turingou/csv-jsonify"
+}
